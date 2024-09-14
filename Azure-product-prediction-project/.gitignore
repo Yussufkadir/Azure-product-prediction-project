@@ -1,0 +1,10 @@
+.env
+.ipynb_aml_checkpoints/
+*/.ipynb_checkpoints/*
+*.py[cod]
+.DS_Store
+Thumbs.db
+.amlignore
+.amlignore.amltmp
+product_prediction.ipynb.amltmp
+keys.env.amltmp
