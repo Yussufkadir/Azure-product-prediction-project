@@ -8,3 +8,5 @@ Thumbs.db
 .amlignore.amltmp
 product_prediction.ipynb.amltmp
 keys.env.amltmp
+.env.save
+
